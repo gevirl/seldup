@@ -1,0 +1,12 @@
+file               notes
+bamutil.c          UW-BSD notice in header
+bamutil.h          UW-BSD notice in header
+bgzf.c             MIT license notice in header
+bgzf.h             MIT license notice in header
+khash.h            MIT license notice in header
+rmdupsam.c         UW-BSD notice in header
+seldup.c           UW-BSD notice in header
+seldup.h           UW-BSD notice in header
+util.c             UW-BSD notice in header
+util.h             UW-BSD notice in header
+xorshift1024.c     Creative Commons license notice in header
